@@ -71,7 +71,7 @@ The pilot phase will be intentionally scoped to allow for focused testing, hands
 
 • **Primary Site:** Center, located in Hawaii
 
-• **Pilot Duration:** 3 months (e.g., June 2025 – Novembe 2025\) 
+• **Pilot Duration:** 6 months (June 2025 – November 2025\) 
 
 • **Pilot Timeline Milestones:** 
 
@@ -398,7 +398,7 @@ o Cultural fit and programming integration
 
 o Suggestions for rollout improvements 
 
-Each group will be surveyed **at the midpoint** (Week 6\) and **end of the pilot** (Week 12). 
+Each group will be surveyed **at the midpoint** (Week 6\) and **end of the pilot** (Week 21–22). 
 
 • **5.2.3 Observation & Documentation** 
 
