@@ -14,7 +14,7 @@ This pilot will focus on the following core objectives:
 
 • Determine whether the app helps reduce communication gaps that often occur  in hybrid or group-based programming. 
 
-• Identify which features (e.g., direct messages, posts, announcements) are most  useful for different user types. 
+• Identify which features (e.g., one-way direct messages from staff/admin to users or groups, posts, announcements) are most  useful for different user types. 
 
 **1.2 Test Safety Protocols and Content Moderation** 
 
@@ -71,19 +71,19 @@ The pilot phase will be intentionally scoped to allow for focused testing, hands
 
 • **Primary Site:** Center, located in Hawaii
 
-• **Pilot Duration:** 6 months (June 2025 – November 2025\) 
+• **Pilot Duration:** Approximately 8 months — development begins immediately (April 2026), with real-user testing running July 2026 – November 2026
 
 • **Pilot Timeline Milestones:** 
 
-o **June 2025:** Pre-launch admin training, content development, and app  configuration. Launch orientation, onboarding, and initial rollout to  
+o **April – June 2026:** Development, app configuration, admin training, content development, and onboarding preparation
 
-selected user groups 
+o **July 2026:** Launch orientation and initial rollout to selected user groups; real-user testing begins
 
-o **August 2025:** Mid-point evaluation and refinements. Close summer  programming 
+o **September 2026:** Mid-point evaluation and refinements; fall programs continue
 
-o **September 2025:** Fall programs begin 
+o **November 2026:** Final month of user engagement and data collection
 
-o **November 2025:** Final month of user engagement and data collection **2.2 Participants** 
+**2.2 Participants** 
 
 The pilot will include a cross-section of the Center user community to test different  engagement styles, developmental stages, and communication needs. 
 
@@ -181,9 +181,7 @@ To keep the scope focused and manageable, the pilot will **not** include:
 
 • External marketing or outreach 
 
-• ʻOhana participation/communications (will address in a later phase) 
-
-This bounded approach ensures that the pilot remains focused on controlled testing,  safety, and meaningful learning before scaling across the whole-company.  
+This bounded approach ensures that the pilot remains focused on controlled testing,  safety, and meaningful learning before scaling across the whole-company. Note: ʻOhana participation and communications are explicitly included in the project scope as part of Phase 2 (see Section 2.2.2 and Section 1.7).  
 **3.0 PILOT TEST CONDITIONS** 
 
 The following test conditions will be implemented during the pilot to ensure safety,  functionality, alignment, and the quality of data collected. These conditions will serve as a  framework to evaluate the app’s ability to meet the needs of kamaliʻi, ʻohana, and staff  while adhering to Whole-Company’s safety and communication standards. 
